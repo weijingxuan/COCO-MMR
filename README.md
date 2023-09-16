@@ -1,6 +1,6 @@
 # COCO-MMR
 
-COCO Multi-Modal Reasoning Dataset (COCO-MMR) is the dataset introduced in our paper titled "Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework". It aims to facilitate cutting-edge research in the field of multi-modal reasoning, particularly focusing on open-ended questions.
+COCO Multi-Modal Reasoning dataset (COCO-MMR) is the dataset introduced in our paper titled "Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework". It aims to facilitate cutting-edge research in the field of multi-modal reasoning, particularly focusing on open-ended questions.
 
 ![COCO-MMR v1_1](./image/v1_0.png)
 > **Figure 1**: This figure outlines the processes of deriving rationales from both the COCO caption dataset and the COCO VQA dataset, as elaborated in Fig. 2 of our [paper](https://arxiv.org/pdf/2307.12626.pdf). This procedure is integral in laying down the foundation for the COCO-MMR dataset by facilitating a detailed multi-modal reasoning process through the extraction and processing of rationales from diverse data subsets.
