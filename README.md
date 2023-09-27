@@ -83,23 +83,10 @@ For the pre-trained models and the results on the ScienceQA dataset, visit our H
 
 **2023-09-16:** COCO-MMR version 1.1 officially released.
 
-**2023-09-27:** Added the latest benchmark results for COCO-MMR.
-
 ## 6. Upcoming
 Stay tuned for a series of papers on this dataset.
 
-### 7. Latest Benchmark Results
-The table below showcases the most recent benchmark results on the COCO-MMR dataset:
-
-| Model                | BLUE  | Similarity | Rouge |
-|----------------------|-------|------------|-------|
-| Mutimodal-CoT Large (QCM-R; QCMR-A) | 58.61 | 71.36      | 60.80 |
-| ENIGMA-COT Large (QCM-R; QCMR-A)    | 58.85 | 71.92      | 61.09 |
-| Our Large (QCM-R; QCMR-A)           | 59.49 | 72.28      | 61.56 |
-| LLaVA (QCM-R; QCMR-A)               | 44.53 | 71.67      | 45.20 |
-
-
-## 8. Citing COCO-MMR
+## 7. Citing COCO-MMR
 
 If our paper, code, or dataset inspires your work, please cite us using the following BibTeX:
 ```bash
@@ -111,12 +98,12 @@ If our paper, code, or dataset inspires your work, please cite us using the foll
 }
 ```
 
-## 9. License
+## 8. License
 
 This project is licensed under the Apache-2.0 License.
 
 
-## 10. Acknowledgement
+## 9. Acknowledgement
 
 We would like to express our gratitude to a variety of individuals and teams that contributed to this project. Special thanks go to Deyao Zhu and the team behind [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), and Jinze Bai and the team behind [Qwen-VL](https://github.com/QwenLM/Qwen-VL). We appreciate the hard work of the entire manual review team that worked tirelessly to review and validate the dataset.
 
